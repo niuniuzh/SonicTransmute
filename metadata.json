@@ -1,0 +1,5 @@
+{
+  "name": "SonicTransmute",
+  "description": "A high-performance NCM to FLAC audio converter dashboard designed for Tauri 2. Features folder monitoring, batch processing visualization, and a modern dark UI.",
+  "requestFramePermissions": []
+}
